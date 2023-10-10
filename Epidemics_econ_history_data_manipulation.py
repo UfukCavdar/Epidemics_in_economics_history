@@ -20,7 +20,6 @@ from linearmodels import PanelOLS
 from fixedeffect.fe import fixedeffect
 import scipy
 
-
 os.chdir('C:\\Users\\ufukc\\Documents')
 
 #%% ANALYSIS
